@@ -27,7 +27,7 @@ Tool • Tikusercm.py
 -
 • After completing the scan number you requested, you will be able to download the working usernames in the txt list
 ---
-● Use Rdibi to let it scan all night and get your usernames in the tele channel
+● Use rdp to let it scan all night and get your usernames in the tele channel
 
 □ The tool is under improvement and development. This is a simple version 🐱
 #2023-9-30🕖
