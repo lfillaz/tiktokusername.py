@@ -13,7 +13,7 @@
 ---
 ● استخدم ارديبي عشان تخليها تفحص طول اليل و تحصل اليوزرات عندك في قناة التلي 
 
-□ الأداة قيد التحسين و التطوير هاذي نسخه بسيطه 🐱
+□ الأداة قيد التحسين و التطوير هاذي نسخه بسيطه 🐱 رابط تحميل ملف الاداة https://t.me/laz_dev/17
 
 
 A tool for creating and checking TikTok usernames
@@ -30,4 +30,4 @@ Tool • Tikusercm.py
 ● Use rdp to let it scan all night and get your usernames in the tele channel
 
 □ The tool is under improvement and development. This is a simple version 🐱
-#2023-9-30🕖
+#2023-9-30🕖 Link to download the tool file https://t.me/laz_dev/17
